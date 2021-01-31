@@ -17,10 +17,10 @@ In this example we will be reading the video and predicting the shape and the co
 
 ## Steps to impliment
 - Read the video and split into frames
-- Processing the frame
-      1. Intentfying closed contours (In this case geometric shapes)
-      2. Identify the shape of contours
-      3. Identify the color of the geometric figure
+- Processing the frame<br/>
+      1. Intentfying closed contours (In this case geometric shapes)<br/>
+      2. Identify the shape of contours<br/>
+      3. Identify the color of the geometric figure<br/>
       
 - Repeat the processing for all the frames
 - Save the collection of the frames as a video output
